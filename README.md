@@ -4,7 +4,7 @@
 In this, we demonstrate how you can use CSS, JavaScript, and HTML to make something great. The eyes in here will follow your mouse around
 
 ## How to Run
-download all the files and open up the index in a website.
+download all the files and open up the index in a website then watch the magic of the eyes.
 
 ## Future Development
 In future development i want to to make it where you can switch faces.
